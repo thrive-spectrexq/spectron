@@ -1,0 +1,19 @@
+/* Spectron global styles */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f8fafc;
+  color: #222;
+}
+
+a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Tailwind or other CSS framework styles will be loaded if configured */
